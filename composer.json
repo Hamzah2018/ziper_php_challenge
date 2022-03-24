@@ -1,0 +1,15 @@
+{
+    "name": "pc/ziper_php_challenge",
+    "autoload": {
+        "psr-4": {
+            "Pc\\ZiperPhpChallenge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamzah Al-Hagi",
+            "email": "ha.773774142@gmail.com"
+        }
+    ],
+    "require": {}
+}
